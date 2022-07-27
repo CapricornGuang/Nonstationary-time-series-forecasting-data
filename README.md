@@ -1,0 +1,31 @@
+# Diviner: Long-term time series forecasting for 5G cellular network capacity planning
+![License](https://img.shields.io/badge/MIT-License-orange?style=plastic)
+![ETT](https://img.shields.io/badge/ETT-red?style=plastic)
+![WTH](https://img.shields.io/badge/WTH-yellow?style=plastic)
+![ECL](https://img.shields.io/badge/ECL-blue?style=plastic)
+![Exchange](https://img.shields.io/badge/Exchange-grey?style=plastic)
+
+
+
+
+
+
+## Diviner Framework
+Diviner aims at exploring the multi-scale stable regularities within time-series data, whose data distribution varies over time. To this end, we propose `Smoothing Filter Attention Mechanism` to filter out random components and adjust the feature scale layer-by-layer. Simultaneously, a `Difference Attention Module` is designed to calculate long- and short- range dependencies by capturing the stable shifts at the corresponding scale. The recipe of our work is to mine constants in change!
+
+<p align="center">
+<img src=".\.img/Framework.png" height = "320" alt="" align=center />
+<br><br>
+<b>Figure 1.</b> The illustration of Diviner framework.
+</p>
+
+## Data
+The file folder collects the data generated our experimental results, including ETT, WTH, ECL, and Exchange data. But due to the confidentiality involved in this project, the NPT dataset can not be accessed publicly. Here below we provide an illustration demo of the NPT data.
+
+<p align="center">
+<img src=".\.img/Figure1.png" height = "256" alt="" align=center />
+<br><br>
+<b>Figure 2.</b> An example of the NPT data.
+</p>
+
+the `dataloader` file within the `data` folder includes our pre-processing and spliting of the dataset, all data involved in this study are standardized.
