@@ -29,3 +29,29 @@ The file folder collects the data generated our experimental results, including 
 </p>
 
 the `dataloader` file within the `data` folder includes our pre-processing and spliting of the dataset, all data involved in this study are standardized.
+
+
+## Results Visualization
+<p align="center">
+<img src=".\.img/wthv.gif" height = "240" alt="" align=center />
+<img src=".\.img/wth_3_.gif" height = "240" alt="" align=center />
+<br><br>
+<b>Figure 3.</b> An illustration of WTH prediction.
+</p>
+<p align="center">
+<img src=".\.img/network_port8_1_.gif" height = "240" alt="" align=center />
+<img src=".\.img/network_port9_1_.gif" height = "240" alt="" align=center />
+<br><br>
+<b>Figure 4.</b> An illustration of NPT prediction.
+</p>
+
+
+
+
+## Contact
+If you have any questions, feel free to contact YuGuang Yang through Email (moujieguang@gmail.com) or Github issues. Pull requests are highly welcomed!
+
+## Acknowlegements![China Unicom](https://img.shields.io/badge/China%20Unicom-CC_BY--NC--SA--red.svg?color=critical)
+
+Thanks for the data collected by China United Network Communications Group Co., Ltd.
+At the same time, thank you all for your attention to this work! 
