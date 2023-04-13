@@ -55,7 +55,7 @@ If you have any questions, feel free to contact YuGuang Yang through Email (mouj
 ## Acknowlegements![China Unicom](https://img.shields.io/badge/China%20Unicom-CC_BY--NC--SA--red.svg?color=critical)
 
 Thanks for the NPT data collected by China United Network Communications Group Co., Ltd.<br/>
-Thanks for the ETT datasets collected by https://github.com/zhouhaoyi/ETDataset.<br/>
+the ETT datasets collected by https://github.com/zhouhaoyi/ETDataset.<br/>
 The Solar and Traffic datasets collected by https://github.com/laiguokun/multivariate-time-series-data.<br/>
 The WTH, ECL datasets collected by https://github.com/RPcb/ARNN.<br/>
 
