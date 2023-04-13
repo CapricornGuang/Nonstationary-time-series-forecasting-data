@@ -20,7 +20,12 @@ Diviner aims at exploring the multi-scale stable regularities within time-series
 </p>
 
 ## Data
-The file folder collects the data generated our experimental results, including ETT, WTH, ECL, and Exchange data. But due to the confidentiality involved in this project, the NPT dataset can not be accessed publicly. Here below we provide an illustration demo of the NPT data.
+The file folder collects the data generated our experimental results, including ETT, WTH, ECL, Solar, Traffic, and Exchange data. 
+The ETT datasets are collected from https://github.com/zhouhaoyi/ETDataset.
+The Solar and Traffic datasets are collected from https://github.com/laiguokun/multivariate-time-series-data.
+The WTH, ECL datasets are collected from https://github.com/RPcb/ARNN.
+
+But due to the confidentiality involved in this project, the NPT dataset can not be accessed publicly. Here below we provide an illustration demo of the NPT data.
 
 <p align="center">
 <img src=".\.img/Figure1.png" height = "256" alt="" align=center />
