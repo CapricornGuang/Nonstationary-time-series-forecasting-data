@@ -1,4 +1,4 @@
-# Diviner: Long-term time series forecasting for 5G cellular network capacity planning
+# Long term 5G network traffic forecasting via modeling non-stationarity with deep learning
 ![License](https://img.shields.io/badge/MIT-License-orange?style=plastic)
 ![ETT](https://img.shields.io/badge/ETT-red?style=plastic)
 ![WTH](https://img.shields.io/badge/WTH-yellow?style=plastic)
